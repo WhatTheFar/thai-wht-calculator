@@ -1,0 +1,5 @@
+{
+  "name": "Thai WHT Calculator",
+  "description": "A precise Withholding Tax (3%) and VAT calculator for Thai businesses, allowing calculation from both tax-inclusive and tax-exclusive prices.",
+  "requestFramePermissions": []
+}
